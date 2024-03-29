@@ -1,4 +1,5 @@
 # TABLEAU_DASHBOARD_PROJECT
+The Project capitalizes on Tableau's potent visualization tools to deliver comprehensive sales data insights. Through meticulous aggregation and analysis of diverse data streams, we uncover crucial patterns, trends, and actionable insights crucial for the sales team and decision-makers.
 Key Objectives:
 1. Data Integration: Gather sales data from diverse sources including CRM systems, spreadsheets, and databases, ensuring data integrity and consistency.
 2. Exploratory Data Analysis (EDA): Conduct thorough exploratory data analysis to understand the characteristics and distributions of sales data.
